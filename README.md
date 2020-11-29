@@ -1,5 +1,7 @@
 # GO_TRASH
-Adalah sebuah game
+Adalah sebuah game edukasi 
 
 # ANGGOTA TEAM
+
+#RULES
 
