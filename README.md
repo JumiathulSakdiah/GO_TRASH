@@ -7,7 +7,7 @@ Permainan akan dimulai ketika memencet button start. Pemain akan diberikan sampa
 # ANGGOTA TEAM
 |No| Nama                          | Role                                 |
 |--| ------------------------------| -------------------------------------|
-|1 | Jumiathul Sakdiah (G64180008) | Game Artist dan Progammer            |
+|1 | Jumiathul Sakdiah (G64180008) | Game Artist dan Programmer           |
 |2 | Denny Lindawati S.(G64180103) | Game Design                          |
 |3 | Fathu Rizka       (G64180104) | Fullstack                            |
 
